@@ -2,7 +2,7 @@
 A mod aimed at improving performance. Unfortunately KSP2 seems to have some heavy underlying issues so this only brings minor improvements at major costs. Don't expect too much from this.
 
 This mod was developed with [S P A C E  W A R P](https://github.com/X606/SpaceWarp), an open source modloader for KSP 2.
-You can activate the mod by pressing spacebar once you've loaded into the KSC.
+You can activate the mod by pressing left ctrl and P, once you've loaded into the KSC.
 
 NOTE: This mod not only heavily reduces terrain complexity but also reduces the physics update rate so you might experience some issues on old saves.
 On top of this, Water is fully removed and no longer has physics. Some buildings are also missing but THOSE usually still have collision!
