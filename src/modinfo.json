@@ -1,0 +1,14 @@
+{
+    "mod_id": "LagRemove",
+    "author": "RadioArtz",
+    "name": "LagRemover",
+    "description": "A mod aimed at improving performance in KSP2 by drastically reducing graphics and even some physics settings",
+    "source": "",
+    "version": "0.1.0",
+    "dependencies": [
+    ],
+    "ksp2_version": {
+        "min": "*",
+        "max": "*"
+    }
+}
