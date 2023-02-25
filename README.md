@@ -5,7 +5,8 @@ This mod was developed with [S P A C E  W A R P](https://github.com/X606/SpaceWa
 You can activate the mod by pressing spacebar once you've loaded into the KSC.
 
 NOTE: This mod not only heavily reduces terrain complexity but also reduces the physics update rate so you might experience some issues on old saves.
-
-Here's the KSC and runway with the mod:
-![image](https://user-images.githubusercontent.com/54477532/221343844-15568e7a-e2c4-4e81-b579-7d4a1bcec835.png)
-![image](https://user-images.githubusercontent.com/54477532/221344182-026da79f-fc65-4a2c-8bbf-98efbf5416d7.png)
+On top of this, Water is fully removed and no longer has physics. Some buildings are also missing but THOSE usually still have collision!
+Here are a few screenshots:
+![image](https://user-images.githubusercontent.com/54477532/221349948-9099701f-7f9a-492d-930d-b1e77c7e2913.png)
+![image](https://user-images.githubusercontent.com/54477532/221349952-1b6deb5b-d4b4-42fc-99b0-c0b7011d0c2c.png)
+![image](https://user-images.githubusercontent.com/54477532/221349956-803eaac5-5f60-44ae-b1b0-98dac4a33131.png)
