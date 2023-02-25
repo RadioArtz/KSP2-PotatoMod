@@ -1,5 +1,5 @@
 ## KSP2-PotatoMod
-A mod aimed at improving performance. Unfortunately KSP2 seems to have some heavy underlying issues so this only brings minor improvements at major costs.
+A mod aimed at improving performance. Unfortunately KSP2 seems to have some heavy underlying issues so this only brings minor improvements at major costs. Don't expect too much from this.
 This mod was developed with [S P A C E  W A R P](https://github.com/X606/SpaceWarp), an open source modloader for KSP 2.
 
 You can activate the mod by pressing spacebar once you've loaded into the KSC.
