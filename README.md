@@ -6,5 +6,6 @@ You can activate the mod by pressing spacebar once you've loaded into the KSC.
 
 NOTE: This mod not only heavily reduces terrain complexity but also reduces the physics update rate so you might experience some issues on old saves.
 
-Here's the KSC with the mod:
+Here's the KSC and runway with the mod:
 ![image](https://user-images.githubusercontent.com/54477532/221343844-15568e7a-e2c4-4e81-b579-7d4a1bcec835.png)
+![image](https://user-images.githubusercontent.com/54477532/221344182-026da79f-fc65-4a2c-8bbf-98efbf5416d7.png)
